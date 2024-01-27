@@ -1,0 +1,4 @@
+Euro = int(input("Euroja: "))
+Sentit = int(input("Senttejä: "))
+Rahamäärä = (Euro+(Sentit*0.01))
+print("Sinulla on: ", Rahamäärä)
